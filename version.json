@@ -1,9 +1,10 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "release_repo": "xNewz/cookierun-bot-releases",
   "channel": "stable",
   "release_date": "2026-11-27",
   "changelog": [
+    "แก้ไข Cloud Sync กู้คืนประวัติการเล่นแต่ละรอบและรางวัลครบทุกหน้าจอ พร้อมเพิ่มระบบดึงภาพหน้าจอจากเครื่อง (Remote Snapshot) และปรับหน้าเว็บ Responsive สำหรับมือถือ",
     "ยกเครื่องแอป Desktop ใหม่เป็น Electron + React + Tailwind CSS (รองรับ macOS & Windows) พร้อมระบบอัปเดตอัตโนมัติ (Auto-Updater)",
     "เปิดตัวแอป Android APK (Chaquopy) รันบอทบนมือถือ Android ล้วนได้โดยไม่ต้องใช้คอม พร้อมปุ่มลอย Floating Overlay HUD และ Layout มือถือโดยเฉพาะ",
     "เพิ่มระบบสมาชิก Cloud Auth + Cloud Sync ซิงก์การตั้งค่าและสถิติข้ามเครื่องอัตโนมัติ (รวมถึงซิงก์สถิติพื้นหลังบน Android)",
